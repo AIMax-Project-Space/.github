@@ -1,4 +1,6 @@
-## Hi there 👋
+## AIMax - Game Playing Robot.
+
+This Project is a robot that can play video games. This can play a car racing game by controlling a gaming wheel.
 
 <!--
 
